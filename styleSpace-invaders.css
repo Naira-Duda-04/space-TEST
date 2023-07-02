@@ -1,0 +1,30 @@
+@import url("http://fonts.googleapis.com/css?family=VT323");
+
+h1 {
+    font-size: 100px;
+    font-family: 'VT323';
+}
+
+p {
+    font-family: 'VT323';
+    font-size: 30px;
+}
+
+canvas {
+    background-color: #333;
+    border: 1px solid #000;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 10px 10px 10px #333;
+}
+
+span {
+    color: red;
+}
+
+div {display: none;}
+
